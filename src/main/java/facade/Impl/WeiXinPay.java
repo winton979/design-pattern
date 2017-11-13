@@ -1,7 +1,7 @@
-package FacadePattern.Impl;
+package facade.Impl;
 
-import FacadePattern.Demo;
-import FacadePattern.IPay;
+import facade.Demo;
+import facade.IPay;
 
 /**
  * Created by winton on 2017/11/9.

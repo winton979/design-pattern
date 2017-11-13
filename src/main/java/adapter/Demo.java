@@ -1,6 +1,4 @@
-package adapterpattern;
-
-import java.util.jar.Manifest;
+package adapter;
 
 public class Demo {
 

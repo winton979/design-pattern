@@ -1,4 +1,4 @@
-package FacadePattern;
+package facade;
 
 /**
  * 执行demo

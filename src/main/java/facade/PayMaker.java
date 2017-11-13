@@ -1,8 +1,8 @@
-package FacadePattern;
+package facade;
 
-import FacadePattern.Impl.ApplePay;
-import FacadePattern.Impl.WeiXinPay;
-import FacadePattern.Impl.ZhiFuBaoPay;
+import facade.Impl.ApplePay;
+import facade.Impl.WeiXinPay;
+import facade.Impl.ZhiFuBaoPay;
 
 /**
  * Created by winton on 2017/11/9.

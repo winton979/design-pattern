@@ -1,7 +1,7 @@
-package observerpattern;
+package observer;
 
-import observerpattern.Observer.LogObserver;
-import observerpattern.Observer.NotifyObserver;
+import observer.Observer.LogObserver;
+import observer.Observer.NotifyObserver;
 
 /**
  * Created by winton on 2017/11/10.

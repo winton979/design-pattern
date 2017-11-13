@@ -1,4 +1,4 @@
-package FacadePattern;
+package facade;
 
 /**
  * Created by winton on 2017/11/9.
